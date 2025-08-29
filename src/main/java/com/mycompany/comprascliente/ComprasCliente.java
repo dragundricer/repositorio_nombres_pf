@@ -29,6 +29,7 @@ public class ComprasCliente {
 
         // Salida de datos
         System.out.println("\n--- RESULTADOS ---");
+        System.out.println("Cliente: " + nombre);
         System.out.println("Total compras         : " + totalCompras);
         System.out.println("Promedio de compras   : " + promedioCompras);
     }
